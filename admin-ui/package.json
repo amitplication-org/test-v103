@@ -1,6 +1,5 @@
 {
   "name": "@sample-service/admin",
-  "version": "t1ngngd1",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",

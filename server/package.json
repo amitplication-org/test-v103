@@ -1,6 +1,5 @@
 {
   "name": "@sample-service/server",
-  "version": "t1ngngd1",
   "private": true,
   "scripts": {
     "start": "nest start",
